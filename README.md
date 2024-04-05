@@ -11,7 +11,7 @@ git clone https://github.com/PLeandroBrizuela/challenge-developer-junior.git
 
 ```
 
-##Requisitos
+#Requisitos
 
 <ul>
 <li>Selección de Servicio</li>
@@ -19,7 +19,7 @@ git clone https://github.com/PLeandroBrizuela/challenge-developer-junior.git
 <li>Confirmación de Reserva</li>
 </ul>
 
-###Agregados
+#Agregados
 
 <ul>
 <li>Guardar  Reserva</li>
@@ -27,7 +27,7 @@ git clone https://github.com/PLeandroBrizuela/challenge-developer-junior.git
 <li>Cancelar Reserva</li>
 </ul>
 
-####Tecnologias usadas
+#Tecnologias usadas
 <ul>
 <li>React 18.2.0</li>
 <li>TailwindCSS 3.4.3</li>

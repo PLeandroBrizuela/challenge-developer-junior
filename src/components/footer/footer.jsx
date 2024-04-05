@@ -6,7 +6,7 @@ import PreviousNext from "../buttons/previousNext";
 const Footer = () => {
   const { setMenuActive, menuActive } = useContext(ProgressContext);
   return (
-    <footer className={`fixed h-20 bottom-16 w-screen max-w-[600px] flex flex-col left-0`}>
+    <footer className={`fixed h-20 bottom-16 w-screen max-w-[600px] flex flex-col max-sm:left-0`}>
       <PreviousNext />
       <div className="flex justify-evenly">
         <figure className="flex flex-col cursor-pointer">
